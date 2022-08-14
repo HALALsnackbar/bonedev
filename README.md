@@ -2,10 +2,8 @@
 
 
 ## Preview
-https://i.imgur.com/rbIguuU.png
-
-https://i.imgur.com/5TNqwWP.png
-
+![https://i.imgur.com/rbIguuU.png](https://i.imgur.com/rbIguuU.png)
+![https://i.imgur.com/5TNqwWP.png](https://i.imgur.com/5TNqwWP.png)
 
 ## Description
 
